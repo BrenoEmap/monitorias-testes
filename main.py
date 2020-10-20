@@ -5,4 +5,5 @@ def foobar(n):
         print("Foo")
     elif n%5==0:
         print("Bar")
-    pass
+    else:
+        print('""')
