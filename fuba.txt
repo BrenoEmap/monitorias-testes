@@ -7,5 +7,5 @@ Foo
 Bar
 
 >>> foobar(15)
-"FooBar"
+FooBar
 
