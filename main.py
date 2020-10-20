@@ -7,3 +7,5 @@ def foobar(n):
         print("Bar")
     else:
         print('""')
+
+print("Oi mundo")
