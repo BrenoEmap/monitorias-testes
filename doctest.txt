@@ -1,4 +1,4 @@
->>> import main
+>>> from main import *
 >>> foobar()
 Traceback (most recent call last):
     ...
