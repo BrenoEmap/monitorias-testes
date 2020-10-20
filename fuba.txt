@@ -1,5 +1,4 @@
-
-from fuba import fuba
+>>> from fuba import *
 
 >>> foobar(6)
 Foo
