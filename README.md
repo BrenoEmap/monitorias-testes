@@ -7,3 +7,6 @@
 - João Pedro Donasolo
 - Sávio Vinícius
 - Wellington fera
+- Erick Brito
+- Wellington zik4
+
