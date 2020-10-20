@@ -1,2 +1,3 @@
 def foobar(num:int):
-    pass
+    if num%3 == 0 and num%5 == 0:
+        print('FooBar')
