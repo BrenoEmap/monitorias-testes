@@ -3,4 +3,6 @@ def foobar(n):
         print("Foobar")
     elif n%3==0:
         print("Foo")
+    elif n%5==0:
+        print("Bar")
     pass
