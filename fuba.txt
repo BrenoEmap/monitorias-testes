@@ -1,0 +1,12 @@
+
+import fuba
+
+>>> foobar(6)
+Foo
+
+>>> foobar(10)
+Bar
+
+>>> foobar(15)
+"FooBar"
+
