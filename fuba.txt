@@ -1,5 +1,5 @@
 
-import fuba
+from fuba import fuba
 
 >>> foobar(6)
 Foo
