@@ -4,3 +4,5 @@ def foobar(num:int):
     
     elif num%3 == 0:
         print('Foo')
+
+    
