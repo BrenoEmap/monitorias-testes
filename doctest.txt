@@ -6,7 +6,7 @@ TypeError: foobar() missing 1 required positional argument: 'n'
 >>> foobar(1,2)
 Traceback (most recent call last):
     ...
-TypeError: soma() takes 1 positional arguments but 2 were given
+TypeError: foobar() takes 1 positional argument but 2 were given
 >>> foobar(15)
 Foobar
 >>> foobar(6)
